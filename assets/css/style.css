@@ -1,0 +1,184 @@
+.id{
+	height: 212px;
+	width: 222px;
+	float: top;
+	position: absolute;
+	top: 9%;
+	left: 50px;
+}
+
+.fb{
+	position: absolute;
+	height: 53px;
+	width: 56px;
+	top: 1050px;
+	left: 29px;
+}
+
+.fbbt{
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	color: #fff;
+	top: 1050px;
+	left: 100px;
+}
+
+.more{
+	position: absolute;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 150px;
+	width: 150px;
+	top: 1050px;
+	left: 800px;
+}
+
+
+.fName{
+	font-family: Arial, sans-serif;
+	position: absolute;
+	top: 320px;
+	left: 30px;
+}
+
+.lName{
+	font-family: Arial, sans-serif;
+	position: absolute;
+	top: 360px;
+	left: 30px;
+}
+
+.edcbg1{
+	font-family: Arial, sans-serif;
+	position: absolute;
+	top: 480px;
+	left: 30px;
+}
+
+.edcbg2{
+	font-family: Arial, sans-serif;
+	position: absolute;
+	top: 520px;
+	left: 30px;
+}
+
+.hs{
+	position: absolute;
+	font-family: Arial, sans-serif;
+	top: 650px;
+	left: 27px;
+}
+
+.hsDesc1{
+	font-family: Arial, sans-serif;
+	position: absolute;
+	top: 680px;
+	left: 25px;
+}
+
+.hsDesc2{
+	font-family: Arial, sans-serif;
+	position: absolute;
+	top: 720px;
+	left: 25px;
+}
+
+.college{
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 820px;
+	left: 25px;
+}
+
+.colDesc1{
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 850px;
+	left: 30px;
+}
+
+.colDesc2{
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 890px;
+	left: 30px;
+}
+
+.contact{
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 995px;
+	left: 25px;
+}
+
+.about{
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	left: 380px;
+	top: 45px;
+}
+
+.abt1{
+	display: inline-block;
+		font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 175px;
+	left: 405px;
+}
+
+.abt2{
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 250px;
+	left: 405px;
+}
+
+.abt3{
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 325px;
+	left: 405px;
+}
+
+.abt4{
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 400px;
+	left: 405px;
+}
+
+.abt5{
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 475px;
+	left: 405px;
+}
+
+.abt6{
+	display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 550px;
+	left: 405px;
+}
+
+
+.rectangle {
+	height: 1300px;
+	width: 320px;
+	position: absolute;
+	background-color: #767575;
+
+}
+
+
+
+body{
+	width: 100%;
+	background-color: #D9D9D9 ;
+
+}
+
